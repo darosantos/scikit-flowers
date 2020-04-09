@@ -19,3 +19,12 @@ After that Scikit-Flowers can be installed using pip.
 	- Enginering Forest
 - Regressor
 	- None
+
+### Citing scikit-flowers
+------------
+If you want to cite scikit-flowers in a scientific publication, please use the following Bibtex entry:
+
+	@article{skmultiflow,
+	  author  = {},
+	  title   = {},
+	}
