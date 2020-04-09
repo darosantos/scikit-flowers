@@ -1,5 +1,5 @@
 # Scikit-Flowers
-------------
+
 Scikit-Flowers or skflowers is a framework for explore data streaming and using scikit-learn compatible model-based in decision trees.
 
 ### Instalation
