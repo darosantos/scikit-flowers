@@ -1,5 +1,4 @@
-![Scikit-Flowers](https://raw.githubusercontent.com/darosantos/scikit-flowers/master/docs/img/logo_100_75.png "Scikit-Flowers") Scikit-Flowers
-
+<img src="https://raw.githubusercontent.com/darosantos/scikit-flowers/master/docs/img/logo_100_75.png" title="Scikit-Flowers" align="middle"/> <h1>Scikit-Flowers</h1>
 Scikit-Flowers or skflowers is a framework for explore data streaming and using scikit-learn compatible model-based in decision trees.
 
 ### Instalation
