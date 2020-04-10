@@ -1,5 +1,9 @@
-<img src="https://raw.githubusercontent.com/darosantos/scikit-flowers/master/docs/img/logo_100_75.png" title="Scikit-Flowers" align="middle"/> <h1>Scikit-Flowers</h1>
-Scikit-Flowers or skflowers is a framework for explore data streaming and using scikit-learn compatible model-based in decision trees.
+# ![Scikit-Flowers](https://raw.githubusercontent.com/darosantos/scikit-flowers/master/docs/img/logo_full.png "Scikit-Flowers") 
+
+![Python version](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg)
+![License](https://img.shields.io/badge/license-GPL%20(%3E%3D%203)-blue)
+
+Scikit-Flowers or skflowers is a framework for explore data streaming and using [scikit-learn](http://scikit-learn.org/stable/) compatible model-based in decision trees.
 
 ### Instalation
 ------------
