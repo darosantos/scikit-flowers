@@ -5,7 +5,15 @@
 
 Scikit-Flowers or skflowers is a framework for explore data streaming and using [scikit-learn](http://scikit-learn.org/stable/) compatible model-based in decision trees.
 
-### Instalation
+The framework is built on top of NumPy, Pandas and [Scikit-Learn](http://scikit-learn.org/stable/).
+
+## Important links
+- Static documentation - 
+- Example notebooks - 
+- Issue tracker - 
+- Releases - 
+
+## Instalation
 ------------
 Scikit-Flowers depends on NumPy, SciPy and Scikit-Learn. So make sure these dependencies are installed using pip:
 
@@ -15,7 +23,7 @@ After that Scikit-Flowers can be installed using pip.
 
     pip3 install ~package
 
-### Available models
+## Available models
 ------------
 - Classifiers Ensemble-Based
 	- Random Forest (*sklearn*)
@@ -25,7 +33,7 @@ After that Scikit-Flowers can be installed using pip.
 - Regressor
 	- None
 
-### Citing scikit-flowers
+## Citing scikit-flowers
 ------------
 If you want to cite scikit-flowers in a scientific publication, please use the following Bibtex entry:
 
@@ -33,3 +41,5 @@ If you want to cite scikit-flowers in a scientific publication, please use the f
 	  author  = {},
 	  title   = {},
 	}
+
+## Made possible by
